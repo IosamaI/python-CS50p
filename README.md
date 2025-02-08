@@ -21,15 +21,6 @@ CS50P is an introductory course that covers the fundamentals of programming usin
 
 This repository is designed to help you keep track of your progress, organize your projects, and store your personal notes and solutions.
 
-## Repository Structure
-
-- **`lectures/`**: Contains lecture notes and supplementary materials.
-- **`projects/`**: Contains course projects and assignments.
-  - **`project1/`**: [Brief description of Project 1]
-  - **`project2/`**: [Brief description of Project 2]
-  - *... add more projects as needed ...*
-- **`exercises/`**: Contains smaller practice exercises and problem sets.
-- **`resources/`**: Additional readings, useful links, and external resources.
 
 ## Getting Started
 
